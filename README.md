@@ -1,4 +1,4 @@
-# git-command
+# git command
 git命令
 
  cygwin安装git ssh gettext
