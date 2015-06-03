@@ -15,7 +15,7 @@ git config --global core.quotepath false : Linux使用git的时候，如果添�
 
 git config -l 列出所有配置
 git log --stat 
-
+git checkout -- file
 git add ./git add filename
 git commit -m "注释"
 git push -u origin master 第一次提交
